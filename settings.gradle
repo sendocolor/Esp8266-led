@@ -1,0 +1,2 @@
+rootProject.name = 'CompleteAndroidApp'
+include ':app'
